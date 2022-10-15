@@ -3,7 +3,7 @@
   Version: 1.0.0
   Date: October 7, 2018
   Outputs: Displays power-on-reset values of all ENC28J60 registers 
-	from BANK0, BANK1, BANK2 and BANK3 on serial terminal */
+  from BANK0, BANK1, BANK2 and BANK3 on serial terminal */
 
 #include <SPI.h>
 
